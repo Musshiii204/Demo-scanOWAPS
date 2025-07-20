@@ -1,0 +1,14 @@
+=== OWASP Top 10 Scan – 2025-07-20 20:18:52 ===
+Target: http://sinhvien.giadinh.edu.vn
+
+[-] Không kiểm tra được SQLi.
+[+] XSS: Không phát hiện lỗi.
+[!] Lộ thông tin Server: GDU-TUYENSINH
+[!] Phát hiện từ khóa nhạy cảm trong nội dung!
+[+] Không phát hiện file nhạy cảm.
+[!] JS có thể cũ: /Content/login/js/jquery.min.js
+[!] JS có thể cũ: /Content/loginnews/js/bootstrap.min.js
+[!] JS có thể cũ: /Scripts/jquery.cookie.js
+[!] Thiếu header bảo mật: Content-Security-Policy
+[+] Không phát hiện SSRF.
+[+] Không phát hiện login point.

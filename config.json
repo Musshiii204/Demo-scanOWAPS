@@ -1,0 +1,9 @@
+{
+  "email_enabled": false,
+  "email_from": "youremail@gmail.com",
+  "email_to": "targetemail@gmail.com",
+  "email_app_password": "your_app_password",
+  "telegram_enabled": false,
+  "telegram_bot_token": "123456:ABC-your-bot-token",
+  "telegram_chat_id": "123456789"
+}
